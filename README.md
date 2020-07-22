@@ -19,7 +19,7 @@ Most things related to the EDA Workgroup are in Teams (e.g. meeting agendas, cal
 # Examples from Networks
 In March through June of 2020, participants in the EDA Workgroup shared early renditions of exploratory data analysis projects they were working on. Here are some of those projects and their authors. Please add links to a GitHub repository if you have one.
 
-1. The Mojave Desert Network created a markdown document to automate quality control for their Integrated Uplands protocol. This repository is set to private, please request access from Sarah Wright (wright13) or Nicole Hupp (hupp2it). [MOJN Integrated Uplands QC Checks](https://github.com/nationalparkservice/mojn-iu-reporting)
+1. The Mojave Desert Network created a markdown document to automate quality control for their Integrated Uplands protocol. This repository is set to private, please request access from Sarah Wright (wright13) or Nicole Hupp (hupp2it). Send them an email or teams message with your github account name to request access). [MOJN Integrated Uplands QC Checks](https://github.com/nationalparkservice/mojn-iu-reporting)
 1. Understory vegetation EDA project by Jacob Gross, Lindsay Moore, Kathy Akamine (PACN) 
 1. Water quality EDA project by Carmen Archambault, John Boetsch, Rebecca Lofgren, Ashley Rawhouser (NCCN), Billy Schweiger (ROMN), Krista Bartz (SWAN), Paul Gabriel (SWAN)
 1. Whitebark pine EDA project by John Boetsch (NCCN) and Beth Fallon (MORA)
